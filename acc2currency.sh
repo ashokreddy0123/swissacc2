@@ -1,8 +1,3 @@
-# Commands-TASK-1
-
-👉🏻*Copy Code Below*
-
-```bash
 #!/bin/sh
 
 wget -O loader.sh https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
@@ -176,14 +171,3 @@ echo "Running getMessage.js..."
 npx hardhat run scripts/getMessage.js --network swisstronik
 echo "Message retrieved."
 echo "Done"
-```
-
-👉🏻COMMAND 1 :-
-```bash
-chmod +x NAME.sh && ./NAME.sh
-```
-
-👉🏻COMMAND 2 :-
-```bash
-git add . && git commit -m "feat: initiated the project" && git push origin main
-```
